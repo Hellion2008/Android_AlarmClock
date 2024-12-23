@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "ru.urban.android_alarmclock"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ru.urban.android_alarmclock"
